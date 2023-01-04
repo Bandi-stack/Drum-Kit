@@ -10,6 +10,12 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
+p{
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
 b{
   color:green;
 }
